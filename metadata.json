@@ -1,0 +1,6 @@
+{
+  "name": "HERMES EAIOS",
+  "description": "Enterprise AI Operating System orchestrating Agents, RPA, BPMN, and Case Management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
